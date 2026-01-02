@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: '{cipher}43a2039ac5f3eb662e348b7e2d9dc0291923709abc6dcf2141904bc6b901885e'
+    password: '{cipher}AYBHabLKOiyzOWjejw1+ln9SDpGCbUfPjEZdB/IPztlfedswJUwq8zSvAAMQKb5Efa6zMFa84y9xzbFvlRKMD52SUUNShXviPFAA4zgomrtWteTi9041nZX1W13OsEeMOkinCgFpj8pKtF34yGEN4SLq+Ew2sACS0gj+aBF7t8VB8bOXA9HO2NOEt/g3XrUgzyrR5t01RscY8zs+5uqVtGrPiSmSTngNkoqI6928ywRtBffh7BBFk9KJrsTrUAohB61NqvO2j0m0FNpu6TtsSnRPImQChPMPAltuFS4mW11ba1sSYAKq1K8MTUEiwdYapclqiWgdzmI6TtfDDPupCZkssoCaMjdGstnmVTr97sdV2E+y4b9AejIDixzYmbcYsHq2BiZAvoCTV07H774NnW0G/1VjNmWg7hK+MvHWmfWaOLk5Zka6R9lSgWXY2OGdQk0w9JFNV9PxYycSCr5pBMIqGb1fcy5f085mKoisUrIg+V9P/ugdGoMRKUO7oElYeuL4I5krr/mTWCC8JRQIpi+lXYootTos0mNqr9ujtiuuBA=='
 
 # app:
 #   payment:
